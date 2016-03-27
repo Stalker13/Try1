@@ -2,4 +2,4 @@
 Examlpe
 
 My first repository. 
-I like :coffee:!
+I like :coffee:, :PC: and love my :son:!
